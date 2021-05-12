@@ -6,5 +6,5 @@
 --- datasets (sources and structure) ---
 # ILLUSTRATION
 --- ---
-# ISSUES AND IMPROVMENTS
+# ISSUES AND IMPROVEMENTS
 ---Up comming updates to improve this project (program, ideas....) ---

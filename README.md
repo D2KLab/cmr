@@ -1,5 +1,6 @@
 # CROSS-MODAL RETRIEVAL (IMAGE-CAPTION)
 --- describe goals of this project ---
+questo è un progetto
 # SETUP
 --- what we need in order to run the code for this project
 # DATA

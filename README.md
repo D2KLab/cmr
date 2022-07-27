@@ -10,7 +10,7 @@ Precision and accuracy are both around 88% after fifty epochs of training.
 # DATA    
 * “2014 Train/Val annotations”     
 * Glove 6b.zip    
-* images features and classes    
+* Images features and classes    
 # ILLUSTRATION    
 An example on how it works:
 ![Example](https://user-images.githubusercontent.com/84068726/118475014-06698000-b70c-11eb-9437-c1a167229848.png)
